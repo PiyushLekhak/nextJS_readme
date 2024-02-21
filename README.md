@@ -17,9 +17,9 @@ While I may not have a specific goal in mind, I am driven by a clear purpose: to
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-# Career Goals
+# Planned Roadmap
 
-My Personal Planned RoadMap (Please advise if any of these are outdated or if there are emerging trends I should consider):
+My Planned RoadMap (Please advise if any of these are outdated or if there are emerging trends I should consider):
 
 1. Maths: (statistics, probability, calculus)
 2. Programming Languages: Python with core focus on basic libraries (numpy, pandas, matplotlib,etc) as well as ml libraries(sklearn, tensorflow,Keras,etc). Also been recently looking at frameworks like langchain for llm.
